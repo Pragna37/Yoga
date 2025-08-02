@@ -1,4 +1,4 @@
-# 🧘 Yoga/Ventory App
+# 🧘 Yoga
 
 A MERN stack application that allows users to vent their thoughts or share yoga session JSON files. Users can register, login, post their own sessions, and view others' sessions.
 
