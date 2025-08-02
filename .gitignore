@@ -1,0 +1,10 @@
+# Ignore node_modules and environment files
+client/node_modules/
+server/node_modules/
+
+.env
+.env.local
+dist/
+build/
+.DS_Store
+.vscode/
